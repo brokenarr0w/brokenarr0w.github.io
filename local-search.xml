@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>C#学习</title>
+    <link href="/2024/04/17/C-%E5%AD%A6%E4%B9%A0/"/>
+    <url>/2024/04/17/C-%E5%AD%A6%E4%B9%A0/</url>
+    
+    <content type="html"><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>之前学习java是无奈之举，现在既然已经考了研，在上岸以后我想追寻我最初的梦想：做游戏。而国内基本就是虚幻引擎和Unity二分天下。虚幻引擎因为用到了C++，我并不是很熟悉，所以就先从Unity开始吧。学习Unity肯定要先学习C#的语法，于是就有了这篇博文。（参考资料是微软官网的文档<a href="https://learn.microsoft.com/zh-cn/dotnet/csharp/?WT.mc_id=dotnet-35129-website">C#文档</a>，缓慢学习中）</p><h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习笔记</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>C#</tag>
+      
+      <tag>Unity</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>算法</title>
     <link href="/2024/04/14/%E7%AE%97%E6%B3%95/"/>
     <url>/2024/04/14/%E7%AE%97%E6%B3%95/</url>
