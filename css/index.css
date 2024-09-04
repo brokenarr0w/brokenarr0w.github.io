@@ -3047,9 +3047,6 @@ h1.page-title + .tag-cloud-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
-  html.hide-aside .layout > .aside-content {
-    display: none;
-  }
   html.hide-aside .layout > div:first-child {
     width: 80%;
   }
